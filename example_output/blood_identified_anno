@@ -1,0 +1,866 @@
+ECMO203	E263	erm(G)	erm(G)_2_L42817	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8834912	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	aph(3')	aph(3')-IIa_2_V00618	Aminoglycoside	"Kanamycin, Neomycin"	6295884	Enzymatic modification					
+ECMO227	E268	erm(B)	erm(B)_18_X66468	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8093174	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	erm(B)	erm(B)_23_X72021	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	7514148	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	erm(G)	erm(G)_2_L42817	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8834912	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO227	E268	aph(3')	aph(3')-IIa_2_V00618	Aminoglycoside	"Kanamycin, Neomycin"	6295884	Enzymatic modification					
+ECMO227	E268	erm(B)	erm(B)_18_X66468	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8093174	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	erm(B)	erm(B)_23_X72021	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	7514148	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	erm(G)	erm(G)_2_L42817	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8834912	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO227	E268	aph(3')	aph(3')-IIa_2_V00618	Aminoglycoside	"Kanamycin, Neomycin"	6295884	Enzymatic modification					
+ECMO227	E268	erm(B)	erm(B)_18_X66468	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8093174	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	erm(B)	erm(B)_23_X72021	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	7514148	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	erm(G)	erm(G)_2_L42817	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8834912	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO227	E268	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO244	E272	tet(B)	tet(B)_1_AP000342	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Increased efflux					
+ECMO244	E272	tet(Q)	tet(Q)_3_U73497	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+ECMO244	E272	tet(Q)	tet(Q)_4_Z21523	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7916585	Target protection					
+ECMO250	E273	erm(G)	erm(G)_1_M15332	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3025178	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO250	E273	erm(G)	erm(G)_1_M15332	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3025178	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO250	E273	erm(G)	erm(G)_1_M15332	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3025178	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO267	E276	blaZ	blaZ_74_CZWI01000159	Beta-lactam	"Amoxicillin, Ampicillin, Penicillin, Piperacillin"	unpublished	Enzymatic inactivation	Class A				
+ECMO267	E276	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+ECMO267	E276	blaZ	blaZ_74_CZWI01000159	Beta-lactam	"Amoxicillin, Ampicillin, Penicillin, Piperacillin"	unpublished	Enzymatic inactivation	Class A				
+ECMO267	E276	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+ECMO267	E276	blaZ	blaZ_74_CZWI01000159	Beta-lactam	"Amoxicillin, Ampicillin, Penicillin, Piperacillin"	unpublished	Enzymatic inactivation	Class A				
+ECMO267	E276	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+ECMO268	E275	aph(3')	aph(3')-Ia_1_V00359	Aminoglycoside	"Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin"	6270337	Enzymatic modification					
+ECMO268	E275	erm(G)	erm(G)_1_M15332	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3025178	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO268	E275	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO268	E275	tet(W)	tet(W)_5_AJ427422	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+ECMO268	E275	aph(3')	aph(3')-Ia_1_V00359	Aminoglycoside	"Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin"	6270337	Enzymatic modification					
+ECMO268	E275	erm(G)	erm(G)_1_M15332	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3025178	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO268	E275	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO268	E275	tet(W)	tet(W)_5_AJ427422	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+ECMO268	E275	aph(3')	aph(3')-Ia_1_V00359	Aminoglycoside	"Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin"	6270337	Enzymatic modification					
+ECMO268	E275	erm(G)	erm(G)_1_M15332	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3025178	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO268	E275	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO268	E275	tet(W)	tet(W)_5_AJ427422	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+ECMO283	E302	cfxA4	cfxA4_1_AY769933	Beta-lactam	Unknown Beta-lactam	unpublished	Enzymatic inactivation	Chromosomal				
+ECMO283	E302	mef(A)	mef(A)_2_U83667	Macrolide	"Erythromycin, Azithromycin"	"9333056, 27786586"	Increased efflux	Alternative name mef(I)				
+ECMO283	E302	tet(O)	tet(O)_2_M20925	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	2841293	Target protection					
+ECMO283	E302	tet(Q)	tet(Q)_2_X58717	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	1339256	Target protection					
+ECMO283	E302	cfxA4	cfxA4_1_AY769933	Beta-lactam	Unknown Beta-lactam	unpublished	Enzymatic inactivation	Chromosomal				
+ECMO283	E302	mef(A)	mef(A)_2_U83667	Macrolide	"Erythromycin, Azithromycin"	"9333056, 27786586"	Increased efflux	Alternative name mef(I)				
+ECMO283	E302	tet(O)	tet(O)_2_M20925	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	2841293	Target protection					
+ECMO283	E302	tet(Q)	tet(Q)_2_X58717	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	1339256	Target protection					
+ECMO283	E302	cfxA4	cfxA4_1_AY769933	Beta-lactam	Unknown Beta-lactam	unpublished	Enzymatic inactivation	Chromosomal				
+ECMO283	E302	mef(A)	mef(A)_2_U83667	Macrolide	"Erythromycin, Azithromycin"	"9333056, 27786586"	Increased efflux	Alternative name mef(I)				
+ECMO283	E302	tet(O)	tet(O)_2_M20925	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	2841293	Target protection					
+ECMO283	E302	tet(Q)	tet(Q)_2_X58717	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	1339256	Target protection					
+ECMO291	E302	aph(3')	aph(3')-Ia_10_EU855787	Aminoglycoside	Unknown Aminoglycoside	19075060	Enzymatic modification					
+ECMO291	E302	cfxA6	cfxA6_1_GQ342996	Beta-lactam	Unknown Beta-lactam	19713526	Enzymatic inactivation	Chromosomal				
+ECMO298	E302	erm(G)	erm(G)_1_M15332	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3025178	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO298	E302	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+ECMO339	E311	erm(C)	erm(C)_13_M13761	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3087948	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO339	E311	tet(39)	tet(39)_1_KT346360	Tetracycline	"Doxycycline, Tetracycline"	26416779	Increased efflux					
+ECMO379	E315	aph(3'')	aph(3'')-Ib_2_AF024602	Aminoglycoside	Streptomycin	9687410	Enzymatic modification	"Alternative name strA, orfH"				
+ECMO379	E315	blaCTX	blaCTX-M-214_1_MH121688	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+ECMO379	E315	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO379	E315	tetA(60)	tetA(60)_1_KX000272	Tetracycline	"Doxycycline, Tetracycline, Tigecycline"	unpublished	Increased efflux	Both tetA(60) and tetB(60) must be present to confer resistance				
+ECMO386	E318	blaTEM	blaTEM-15_1_AM849805	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	18245789	Enzymatic inactivation	Class A				
+ECMO386	E318	cfxA6	cfxA6_1_GQ342996	Beta-lactam	Unknown Beta-lactam	19713526	Enzymatic inactivation	Chromosomal				
+ECMO386	E318	erm(F)	erm(F)_1_M14730	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3023281	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO386	E318	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+ECMO386	E318	sul2	sul2_14_AJ514834	Folate pathway antagonist	Sulfamethoxazole	12937006	Purine synthesis					
+ECMO386	E318	tet(M)	tet(M)_7_FN433596	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	19948800	Target protection					
+ECMO386	E318	tet(Q)	tet(Q)_4_Z21523	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7916585	Target protection					
+ECMO386	E318	tetB(60)	tetB(60)_1_KX000273	Tetracycline	"Doxycycline, Tetracycline, Tigecycline"	unpublished	Increased efflux	Both tetA(60) and tetB(60) must be present to confer resistance				
+ECMO386	E318	blaTEM	blaTEM-15_1_AM849805	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	18245789	Enzymatic inactivation	Class A				
+ECMO386	E318	cfxA6	cfxA6_1_GQ342996	Beta-lactam	Unknown Beta-lactam	19713526	Enzymatic inactivation	Chromosomal				
+ECMO386	E318	erm(F)	erm(F)_1_M14730	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3023281	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO386	E318	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+ECMO386	E318	sul2	sul2_14_AJ514834	Folate pathway antagonist	Sulfamethoxazole	12937006	Purine synthesis					
+ECMO386	E318	tet(M)	tet(M)_7_FN433596	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	19948800	Target protection					
+ECMO386	E318	tet(Q)	tet(Q)_4_Z21523	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7916585	Target protection					
+ECMO386	E318	tetB(60)	tetB(60)_1_KX000273	Tetracycline	"Doxycycline, Tetracycline, Tigecycline"	unpublished	Increased efflux	Both tetA(60) and tetB(60) must be present to confer resistance				
+ECMO476	E326	blaTEM	blaTEM-157_1_DQ909059	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+ECMO476	E326	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+ECMO666	E327	cfxA5	cfxA5_1_AY769934	Beta-lactam	Unknown Beta-lactam	unpublished	Enzymatic inactivation	Chromosomal				
+ECMO695	E295	erm(B)	erm(B)_11_M19270	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	2832378	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO695	E295	tet(Q)	tet(Q)_4_Z21523	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7916585	Target protection					
+ECMO719	E294	msr(E)	msr(E)_1_FR751518	"Macrolide, Streptogramin B"	"Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	"21402855, 29712846, 27006457, 27786586"	Target protection	ABC transporter				
+ECMO719	E294	tet(M)	tet(M)_5_U58985	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	9372426	Target protection					
+ECMO719	E294	tet(Q)	tet(Q)_2_X58717	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	1339256	Target protection					
+ECMO719	E294	msr(E)	msr(E)_1_FR751518	"Macrolide, Streptogramin B"	"Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	"21402855, 29712846, 27006457, 27786586"	Target protection	ABC transporter				
+ECMO719	E294	tet(M)	tet(M)_5_U58985	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	9372426	Target protection					
+ECMO719	E294	tet(Q)	tet(Q)_2_X58717	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	1339256	Target protection					
+ECMO748	E303	cfxA6	cfxA6_1_GQ342996	Beta-lactam	Unknown Beta-lactam	19713526	Enzymatic inactivation	Chromosomal				
+ECMO748	E303	erm(B)	erm(B)_1_JN899585	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	23442208	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO748	E303	lnu(C)	lnu(C)_1_AY928180	Lincosamide	Lincomycin	15980341	Enzymatic inactivation	Lincosamide nucleotidyltransferase				
+ECMO748	E303	tet(W)	tet(W)_4_FN396364	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	21115784	Target protection					
+ECMO748	E303	cfxA6	cfxA6_1_GQ342996	Beta-lactam	Unknown Beta-lactam	19713526	Enzymatic inactivation	Chromosomal				
+ECMO748	E303	erm(B)	erm(B)_1_JN899585	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	23442208	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ECMO748	E303	lnu(C)	lnu(C)_1_AY928180	Lincosamide	Lincomycin	15980341	Enzymatic inactivation	Lincosamide nucleotidyltransferase				
+ECMO748	E303	tet(W)	tet(W)_4_FN396364	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	21115784	Target protection					
+ECMO835	E123	aph(2'')	aph(2'')-Ia_2_AP009486	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin"	19074389	Enzymatic modification	Bifunctional aac(6')-Ie-aph(2'')-Ia				
+ECMO835	E123	aph(3')	aph(3')-IIa_2_V00618	Aminoglycoside	"Kanamycin, Neomycin"	6295884	Enzymatic modification					
+ECMO835	E123	blaTEM	blaTEM-1A_1_HM749966	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	21393132	Enzymatic inactivation	Class A				
+ECMO835	E123	cfxA5	cfxA5_1_AY769934	Beta-lactam	Unknown Beta-lactam	unpublished	Enzymatic inactivation	Chromosomal				
+ECMO835	E123	ClpL	ClpL_1_CP023753	Heat	Temperature	29104933	ATP-dependant proteas					
+ECMO835	E123	aph(2'')	aph(2'')-Ia_2_AP009486	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin"	19074389	Enzymatic modification	Bifunctional aac(6')-Ie-aph(2'')-Ia				
+ECMO835	E123	aph(3')	aph(3')-IIa_2_V00618	Aminoglycoside	"Kanamycin, Neomycin"	6295884	Enzymatic modification					
+ECMO835	E123	blaTEM	blaTEM-1A_1_HM749966	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	21393132	Enzymatic inactivation	Class A				
+ECMO835	E123	cfxA5	cfxA5_1_AY769934	Beta-lactam	Unknown Beta-lactam	unpublished	Enzymatic inactivation	Chromosomal				
+ECMO835	E123	ClpL	ClpL_1_CP023753	Heat	Temperature	29104933	ATP-dependant proteas					
+ngs-23-385	E100	lnu(A)	lnu(A)_1_M14039	Lincosamide	Lincomycin	3091456	Enzymatic inactivation	Lincosamide nucleotidyltransferase; Alternative name lin(A)				
+ngs-23-389	E112	blaCTX	blaCTX-M-137_1_KF790923	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	24777903	Enzymatic inactivation	Class A				
+ngs-23-389	E112	blaCTX	blaCTX-M-137_1_KF790923	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	24777903	Enzymatic inactivation	Class A				
+ngs-23-393	E123	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+ngs-23-393	E123	aac(3)	aac(3)-IId_1_EU022314	Aminoglycoside	"Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin"	20185552	Enzymatic modification					
+ngs-23-393	E123	blaKPC	blaKPC-23_1_MH450213	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+ngs-23-393	E123	blaKPC	blaKPC-24_1_KR052099	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+ngs-23-393	E123	blaKPC	blaKPC-27_1_KX828722	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+ngs-23-393	E123	catB3	catB3_1_AJ009818	Amphenicol	Chloramphenicol	1662753	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+ngs-23-393	E123	catB3	catB3_2_U13880	Amphenicol	Chloramphenicol	7793874	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+ngs-23-393	E123	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+ngs-23-393	E123	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+ngs-23-393	E123	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+ngs-23-393	E123	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+ngs-23-398	E52	blaPAO	blaPAO_4_AY083592	Beta-lactam	"Amoxicillin, Ampicillin, Cefepime, Ceftazidime"	19258272	Enzymatic inactivation	class C beta-lactamase				
+ngs-23-398	E52	blaPAO	blaPAO_4_AY083592	Beta-lactam	"Amoxicillin, Ampicillin, Cefepime, Ceftazidime"	19258272	Enzymatic inactivation	class C beta-lactamase				
+ngs-23-405	E153	tet(41)	tet(41)_1_AY264780	Tetracycline	"Doxycycline, Tetracycline"	17308196	Increased efflux					
+ngs-23-407	E70	lsa(C)	lsa(C)_1_HM990671	"Lincosamide, Streptogramin A, Pleuromutilin"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin"	"21245447, 27006457"	Target protection	ABC transporter				
+ngs-23-407	E70	lsa(C)	lsa(C)_1_HM990671	"Lincosamide, Streptogramin A, Pleuromutilin"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin"	"21245447, 27006457"	Target protection	ABC transporter				
+ngs-23-413	E155	fosA	fosA_4_ACWU01000146	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+ngs-23-413	E155	fosA	fosA_4_ACWU01000146	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+ngs-23-413	E155	fosA	fosA_4_ACWU01000146	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+ngs-23-423	E142	mef(A)	mef(A)_2_U83667	Macrolide	"Erythromycin, Azithromycin"	"9333056, 27786586"	Increased efflux	Alternative name mef(I)				
+ngs-23-423	E142	mef(A)	mef(A)_2_U83667	Macrolide	"Erythromycin, Azithromycin"	"9333056, 27786586"	Increased efflux	Alternative name mef(I)				
+ngs-23-446	anzhen92	erm(F)	erm(F)_1_M14730	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3023281	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ngs-23-446	anzhen92	erm(F)	erm(F)_1_M14730	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3023281	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+ngs-23-451	anzhen96	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_219	E143	aac(6')	aac(6')-Ii_1_L12710	Aminoglycoside	"Tobramycin, Dibekacin, Gentamicin, Sisomicin, Netilmicin"	8239603	Enzymatic modification					
+NGS_2023_219	E143	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_219	E143	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_219	E143	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_219	E143	tet(L)	tet(L)_2_M29725	Tetracycline	"Doxycycline, Tetracycline"	2438417	Increased efflux					
+NGS_2023_220	E147	blaTEM	blaTEM-45_1_X95401	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	9010136	Enzymatic inactivation	Class A				
+NGS_2023_220	E147	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_220	E147	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_220	E147	qnrS3	qnrS3_1_EU077611	Quinolone	Ciprofloxacin	18426894	Target protection					
+NGS_2023_220	E147	sul1	sul1_18_AY260546	Folate pathway antagonist	Sulfamethoxazole	18753343	Purine synthesis					
+NGS_2023_220	E147	tet(C)	tet(C)_2_AY046276	Tetracycline	"Doxycycline, Tetracycline"	2821509	Increased efflux					
+NGS_2023_221	E152	blaCTX	blaCTX-M-191_1_KY271097	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_221	E152	blaLAP	blaLAP-2_1_EU159120	Beta-lactam	"Amoxicillin, Ampicillin, Cephalotin, Piperacillin, Ticarcillin"	18550213	Enzymatic inactivation	Class A				
+NGS_2023_221	E152	blaSHV	blaSHV-15_1_AJ011428	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_221	E152	blaSHV	blaSHV-185_1_KM233164	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_221	E152	blaTEM	blaTEM-216_1_KF944358	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_221	E152	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_221	E152	erm(B)	erm(B)_9_AF299292	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	11230937	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_221	E152	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_221	E152	lsa(A)	lsa(A)_3_AY737526	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"15616272, 27006457"	Target protection	ABC transporter				
+NGS_2023_221	E152	mupA	mupA_1_X75439	Pseudomonic acid	Mupirocin	8067768		Alternate Pathway				
+NGS_2023_221	E152	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_221	E152	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_221	E152	tet(M)	tet(M)_13_AM990992	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	20546576	Target protection					
+NGS_2023_222	E157	aadA1	aadA1_3_JQ414041	Aminoglycoside	"Spectinomycin, Streptomycin"	23180481	Enzymatic modification	Alternative name ant(3'')-Ia				
+NGS_2023_222	E157	aph(3')	aph(3')-Ia_1_V00359	Aminoglycoside	"Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin"	6270337	Enzymatic modification					
+NGS_2023_222	E157	aph(3')	aph(3')-Ia_7_X62115	Aminoglycoside	"Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin"	1662755	Enzymatic modification					
+NGS_2023_222	E157	blaCTX	blaCTX-M-201_1_KY997189	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_222	E157	blaSHV	blaSHV-106_1_AM922307	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_222	E157	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_222	E157	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_222	E157	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_222	E157	qacE	qacE_1_X68232	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	8494372	Efflux pump					
+NGS_2023_222	E157	qnrS4	qnrS4_1_FJ418153	Quinolone	Ciprofloxacin	19056747	Target protection					
+NGS_2023_222	E157	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_222	E157	tet(39)	tet(39)_1_KT346360	Tetracycline	"Doxycycline, Tetracycline"	26416779	Increased efflux					
+NGS_2023_222	E157	tet(L)	tet(L)_8_AY081910	Tetracycline	"Doxycycline, Tetracycline"	12682136	Increased efflux					
+NGS_2023_222	E157	tet(O)	tet(O)_1_M18896	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_223	E173	blaSHV	blaSHV-64_1_DQ174304	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_223	E173	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_223	E173	erm(X)	erm(X)_1_M36726	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	Unpublished	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_223	E173	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_223	E173	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_223	E173	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_223	E173	qnrS12	qnrS12_1_MKQI01000097	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_223	E173	sul1	sul1_2_U12338	Folate pathway antagonist	Sulfamethoxazole	unpublished		Purine synthesis				
+NGS_2023_223	E173	tet(M)	tet(M)_11_JN846696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_224	E174	aadA1	aadA1_2_FJ591054	Aminoglycoside	"Spectinomycin, Streptomycin"	19243438	Enzymatic modification	Alternative name ant(3'')-Ia				
+NGS_2023_224	E174		aadA2_1_NC									
+NGS_2023_224	E174	aadA22	aadA22_1_AM261837	Aminoglycoside	"Spectinomycin, Streptomycin"	17597002	Enzymatic modification					
+NGS_2023_224	E174	blaCTX	blaCTX-M-105_1_HQ833651	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22407683	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaCTX	blaCTX-M-192_1_KY271098	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaKPC	blaKPC-17_1_KC465200	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_224	E174	blaKPC	blaKPC-34_1_KU985429	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_224	E174	blaKPC	blaKPC-37_1_MH718730	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic modification	Class A;Group 2f				
+NGS_2023_224	E174	blaKPC	blaKPC-6_1_EU555534	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	22908150	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_224	E174	blaSHV	blaSHV-11_1_X98101	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	9145849	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-132_1_GU981741	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-160_1_JX121127	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-180_1_KP050487	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-182_1_KP050489	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-35_1_AY070258	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-62_1_AJ866285	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-65_1_DQ174305	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaSHV	blaSHV-98_1_AM941844	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	21415202	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaTEM	blaTEM-105_1_AF516720	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaTEM	blaTEM-109_1_AY628175	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"16251281, 16189109"	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaTEM	blaTEM-127_1_AY368236	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	15650379	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaTEM	blaTEM-156_1_AM941159	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaTEM	blaTEM-220_1_KM998962	Beta-lactam	Unknown Beta-lactam	25367903	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	blaTEM	blaTEM-88_1_AY027590	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	11709362	Enzymatic inactivation	Class A				
+NGS_2023_224	E174	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_224	E174	fosA3	fosA3_1_AB522970	Fosfomycin	Fosfomycin	20404116	Enzymatic inactivation					
+NGS_2023_224	E174	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_224	E174	lsa(A)	lsa(A)_3_AY737526	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"15616272, 27006457"	Target protection	ABC transporter				
+NGS_2023_224	E174	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_224	E174	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_224	E174	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_224	E174	qnrS8	qnrS8_1_KF730652	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_224	E174	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_224	E174	sul1	sul1_32_EF592571	Folate pathway antagonist	Sulfamethoxazole	17698627	Purine synthesis					
+NGS_2023_224	E174	sul1	sul1_38_BX248359	Folate pathway antagonist	Sulfamethoxazole	14602910	Purine synthesis					
+NGS_2023_224	E174	sul2	sul2_11_AY232670	Folate pathway antagonist	Sulfamethoxazole	22888274	Purine synthesis					
+NGS_2023_224	E174	tet(L)	tet(L)_3_M11036	Tetracycline	"Doxycycline, Tetracycline"	2996983	Increased efflux					
+NGS_2023_224	E174	tet(M)	tet(M)_4_X75073	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_224	E174	tet(M)	tet(M)_5_U58985	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	9372426	Target protection					
+NGS_2023_224	E174	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+NGS_2023_225	E180		aadA2_1_NC									
+NGS_2023_225	E180	aadA2	aadA2_2_JQ364967	Aminoglycoside	"Spectinomycin, Streptomycin"	22511964	Enzymatic modification					
+NGS_2023_225	E180	aadA3	aadA3_1_AF047479	Aminoglycoside	"Spectinomycin, Streptomycin"	10673049	Enzymatic modification					
+NGS_2023_225	E180	aadA8	aadA8_1_AF326210	Aminoglycoside	"Spectinomycin, Streptomycin"	11557503	Enzymatic modification					
+NGS_2023_225	E180	ant(3'')	ant(3'')-Ia_1_X02340	Aminoglycoside	Streptomycin	8385262	Enzymatic modification	"Alternative name aadA, aad(3')(9), aadA1, aadA1a"				
+NGS_2023_225	E180	aph(2'')	aph(2'')-Ia_2_AP009486	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin"	19074389	Enzymatic modification	Bifunctional aac(6')-Ie-aph(2'')-Ia				
+NGS_2023_225	E180	blaCTX	blaCTX-M-113_1_JF274247	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	21859815	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaCTX	blaCTX-M-125_1_JQ724542	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaCTX	blaCTX-M-147_1_KF513180	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaCTX	blaCTX-M-90_1_FJ907381	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaCTX	blaCTX-M-98_1_HM755448	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22325120	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaKPC	blaKPC-11_1_HM066995	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"21670192, 22322349"	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_225	E180	blaKPC	blaKPC-18_1_KT884517	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_225	E180	blaKPC	blaKPC-34_1_KU985429	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_225	E180	blaSHV	blaSHV-128_1_GU932590	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	25888770	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-134_1_HM559945	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-158_1_JX121125	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-178_1_KF705209	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-182_1_KP050489	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-187_1_LN515533	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-28_1_AF299299	Beta-lactam	Unknown Beta-lactam	19172061	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-2a_1_X98102	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	9145849	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-37_1_AF467948	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-56_1_EU586041	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	18663019	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaSHV	blaSHV-69_1_DQ174308	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaTEM	blaTEM-150_1_AM183304	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaTEM	blaTEM-181_1_KM977568	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaTEM	blaTEM-35_1_KP860986	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"25779568, 8067742"	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	blaTEM	blaTEM-96_1_AY092401	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_225	E180	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_225	E180	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_225	E180	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_225	E180	fosA7	fosA7_1_LAPJ01000014	Fosfomycin	Fosfomycin	26083489	Enzymatic inactivation					
+NGS_2023_225	E180		mph(K)_1_NC									
+NGS_2023_225	E180	mupA	mupA_1_X75439	Pseudomonic acid	Mupirocin	8067768		Alternate Pathway				
+NGS_2023_225	E180	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_225	E180	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_225	E180	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_225	E180	sul1	sul1_19_DQ125241	Folate pathway antagonist	Sulfamethoxazole	18753343	Purine synthesis					
+NGS_2023_225	E180	sul1	sul1_21_AJ971344	Folate pathway antagonist	Sulfamethoxazole	16436717	Purine synthesis					
+NGS_2023_225	E180	sul1	sul1_3_EU855787	Folate pathway antagonist	Sulfamethoxazole	19075060		Purine synthesis				
+NGS_2023_225	E180	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_225	E180	sul1	sul1_8_JN581942	Folate pathway antagonist	Sulfamethoxazole	23558148		Purine synthesis				
+NGS_2023_225	E180	sul1	sul1_9_AY963803	Folate pathway antagonist	Sulfamethoxazole	15968049		Purine synthesis				
+NGS_2023_227	E182	blaCTX	blaCTX-M-21_1_AJ416346	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	12007800	Enzymatic inactivation	Class A				
+NGS_2023_227	E182	blaKPC	blaKPC-25_1_KU216748	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_227	E182	blaSHV	blaSHV-144_1_JQ926986	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_227	E182	blaSHV	blaSHV-5_1_X55640	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	2088203	Enzymatic inactivation	Class A				
+NGS_2023_227	E182	blaSHV	blaSHV-66_1_DQ174306	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_227	E182	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_227	E182	fosA3	fosA3_1_AB522970	Fosfomycin	Fosfomycin	20404116	Enzymatic inactivation					
+NGS_2023_227	E182	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_227	E182	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_227	E182	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_227	E182	qacE	qacE_1_X68232	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	8494372	Efflux pump					
+NGS_2023_227	E182	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_227	E182	VanHAX	VanHAX_2_M97297	Glycopeptide	"Vancomycin, Teicoplanin"	8380148	Target modification					
+NGS_2023_228	E186	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+NGS_2023_228	E186	aac(3)	aac(3)-IId_1_EU022314	Aminoglycoside	"Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin"	20185552	Enzymatic modification					
+NGS_2023_228	E186	ant(3'')	ant(3'')-Ia_1_X02340	Aminoglycoside	Streptomycin	8385262	Enzymatic modification	"Alternative name aadA, aad(3')(9), aadA1, aadA1a"				
+NGS_2023_228	E186	blaCTX	blaCTX-M-113_1_JF274247	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	21859815	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-121_1_JN790862	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	24999233	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-134_1_JX896165	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-14b_1_DQ359215	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	17559406	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-17_1_AY033516	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	11959547	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-46_1_AY847147	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	"16082008, 16333139"	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-65_1_EF418608	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-67_1_EF581888	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	18775649	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-73_1_DQ343292	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaCTX	blaCTX-M-98_1_HM755448	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22325120	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaKPC	blaKPC-12_1_HQ641422	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_228	E186	blaLAP	blaLAP-1_1_EF026092	Beta-lactam	"Amoxicillin, Ampicillin, Cephalotin, Piperacillin, Ticarcillin"	"16982792, 17116662"	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaLAP	blaLAP-2_1_EU159120	Beta-lactam	"Amoxicillin, Ampicillin, Cephalotin, Piperacillin, Ticarcillin"	18550213	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-103_1_EU032604	Beta-lactam	Unknown Beta-lactam	18620848	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-150_1_JX121117	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-163_1_JX121130	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-180_1_KP050487	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-195_1_KX619652	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-26_1_AF227204	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	11502506	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-28_1_AF299299	Beta-lactam	Unknown Beta-lactam	19172061	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-40_1_AF535128	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	15047521	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-82_1_AM176557	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-85_1_DQ322460	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	18347108	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	blaSHV	blaSHV-96_1_EF373971	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_228	E186	dfrA1	dfrA1_10_AF203818	Folate pathway antagonist	Trimethoprim	11055933	Purine synthesis					
+NGS_2023_228	E186	dfrA1	dfrA1_11_AJ419168	Folate pathway antagonist	Trimethoprim	12493806	Purine synthesis					
+NGS_2023_228	E186	dfrA1	dfrA1_15_FM207631	Folate pathway antagonist	Trimethoprim	unpublished	Purine synthesis					
+NGS_2023_228	E186	dfrA1	dfrA1_17_FJ489928	Folate pathway antagonist	Trimethoprim	unpublished	Purine synthesis					
+NGS_2023_228	E186	dfrA1	dfrA1_1_FJ591049	Folate pathway antagonist	Trimethoprim	19243438	Purine synthesis					
+NGS_2023_228	E186	dfrA1	dfrA1_2_HM055363	Folate pathway antagonist	Trimethoprim	21117966	Purine synthesis					
+NGS_2023_228	E186	dfrA1	dfrA1_3_GU726913	Folate pathway antagonist	Trimethoprim	21075469	Purine synthesis					
+NGS_2023_228	E186	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_228	E186	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_228	E186	fosA7	fosA7_1_LAPJ01000014	Fosfomycin	Fosfomycin	26083489	Enzymatic inactivation					
+NGS_2023_228	E186	msr(A)	msr(A)_1_X52085	"Macrolide, Streptogramin B"	"Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	"2233255, 27006457, 27786586"	Target protection	ABC transporter				
+NGS_2023_228	E186	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_228	E186	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_228	E186	qacE	qacE_1_X68232	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	8494372	Efflux pump					
+NGS_2023_228	E186	qnrS10	qnrS10_1_JN836269	Quinolone	Ciprofloxacin	23648253	Target protection					
+NGS_2023_228	E186	qnrS11	qnrS11_1_JQ269335	Quinolone	Ciprofloxacin	22470007	Target protection					
+NGS_2023_228	E186	qnrS13	qnrS13_1_LUYD01000008	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_228	E186	qnrS4	qnrS4_1_FJ418153	Quinolone	Ciprofloxacin	19056747	Target protection					
+NGS_2023_228	E186	qnrS7	qnrS7_1_KF730651	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_228	E186	qnrS8	qnrS8_1_KF730652	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_228	E186	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_228	E186	sul1	sul1_28_JN790946	Folate pathway antagonist	Sulfamethoxazole	unpublished	Purine synthesis					
+NGS_2023_228	E186	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_228	E186	sul2	sul2_2_AY034138	Folate pathway antagonist	Sulfamethoxazole	11600347		Purine synthesis				
+NGS_2023_228	E186	tet(A)	tet(A)_3_AY196695	Tetracycline	"Doxycycline, Tetracycline"	12888597	Increased efflux					
+NGS_2023_228	E186	tet(A)	tet(A)_4_AJ517790	Tetracycline	"Doxycycline, Tetracycline"	12654659	Increased efflux					
+NGS_2023_228	E186	tet(A)	tet(A)_5_AJ419171	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_228	E186	tet(A)	tet(A)_6_AF534183	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_229	E187	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+NGS_2023_229	E187	aac(3)	aac(3)-IId_1_EU022314	Aminoglycoside	"Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin"	20185552	Enzymatic modification					
+NGS_2023_229	E187	blaCTX	blaCTX-M-24_1_EF374096	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	"17548490, 16533535"	Enzymatic inactivation	Class A				
+NGS_2023_229	E187	blaCTX	blaCTX-M-49_1_AY847145	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	"16082008, 16333139"	Enzymatic inactivation	Class A				
+NGS_2023_229	E187	blaSHV	blaSHV-13_1_AF164577	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	10722518	Enzymatic inactivation	Class A				
+NGS_2023_229	E187	blaSHV	blaSHV-160_1_JX121127	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_229	E187	blaSHV	blaSHV-200_1_MF871643	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_229	E187	blaSHV	blaSHV-85_1_DQ322460	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	18347108	Enzymatic inactivation	Class A				
+NGS_2023_229	E187	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_229	E187	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_229	E187	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_229	E187	fosA7	fosA7_1_LAPJ01000014	Fosfomycin	Fosfomycin	26083489	Enzymatic inactivation					
+NGS_2023_229	E187	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_229	E187	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_229	E187	qnrS10	qnrS10_1_JN836269	Quinolone	Ciprofloxacin	23648253	Target protection					
+NGS_2023_229	E187	qnrS11	qnrS11_1_JQ269335	Quinolone	Ciprofloxacin	22470007	Target protection					
+NGS_2023_229	E187	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_229	E187	sul1	sul1_33_AJ564903	Folate pathway antagonist	Sulfamethoxazole	18753343	Purine synthesis					
+NGS_2023_229	E187	tet(A)	tet(A)_1_AJ313332	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_229	E187	tet(A)	tet(A)_2_X00006	Tetracycline	"Doxycycline, Tetracycline"	6310527	Increased efflux					
+NGS_2023_229	E187	tet(A)	tet(A)_4_AJ517790	Tetracycline	"Doxycycline, Tetracycline"	12654659	Increased efflux					
+NGS_2023_229	E187	tet(A)	tet(A)_5_AJ419171	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_229	E187	tet(A)	tet(A)_6_AF534183	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_229	E187	tet(M)	tet(M)_5_U58985	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	9372426	Target protection					
+NGS_2023_230	E189	blaCTX	blaCTX-M-148_1_KJ020574	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	24999233	Enzymatic inactivation	Class A				
+NGS_2023_230	E189	blaCTX	blaCTX-M-214_1_MH121688	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_230	E189	blaCTX	blaCTX-M-86_1_FJ214369	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	18984647	Enzymatic inactivation	Class A				
+NGS_2023_230	E189	blaKPC	blaKPC-5_1_EU400222	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"19015357, 23114770"	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_230	E189	blaSHV	blaSHV-144_1_JQ926986	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_230	E189	blaSHV	blaSHV-147_1_JX121114	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_230	E189	blaSHV	blaSHV-38_1_AY079099	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	12543688	Enzymatic inactivation	Class A				
+NGS_2023_230	E189	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_230	E189	fosA3	fosA3_1_AB522970	Fosfomycin	Fosfomycin	20404116	Enzymatic inactivation					
+NGS_2023_230	E189	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_230	E189	mecA	mecA_9_AB505630	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam"	21422209	Target modification					
+NGS_2023_230	E189	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_230	E189	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_230	E189	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_230	E189	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_230	E189	tet(A)	tet(A)_6_AF534183	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_230	E189	VanHAX	VanHAX_1_FJ866609	Glycopeptide	"Vancomycin, Teicoplanin"	20519356	Target modification					
+NGS_2023_231	E191	aph(6)	aph(6)-Id_3_AB109805	Aminoglycoside	Streptomycin	14711528	Enzymatic modification	Alternative name strB				
+NGS_2023_231	E191	blaOXA	blaOXA-508_1_KU596972	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class D;OXA-51-like;Natural in Acinetobacter baumannii;;				
+NGS_2023_231	E191	blaSHV	blaSHV-70_1_DQ013287	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	16563703	Enzymatic inactivation	Class A				
+NGS_2023_231	E191	dfrA1	dfrA1_16_FJ001872	Folate pathway antagonist	Trimethoprim	20236427	Purine synthesis					
+NGS_2023_231	E191	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_231	E191	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_231	E191	tet(L)	tet(L)_2_M29725	Tetracycline	"Doxycycline, Tetracycline"	2438417	Increased efflux					
+NGS_2023_232	E193	blaSHV	blaSHV-71_1_AM176546	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_232	E193	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_232	E193	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_232	E193	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_232	E193	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_232	E193	qnrS3	qnrS3_1_EU077611	Quinolone	Ciprofloxacin	18426894	Target protection					
+NGS_2023_233	E197	aac(3)	aac(3)-IId_1_EU022314	Aminoglycoside	"Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin"	20185552	Enzymatic modification					
+NGS_2023_233	E197	aadA17	aadA17_1_FJ460181	Aminoglycoside	"Spectinomycin, Streptomycin"	22127350	Enzymatic modification					
+NGS_2023_233	E197	aph(2'')	aph(2'')-Ia_2_AP009486	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin"	19074389	Enzymatic modification	Bifunctional aac(6')-Ie-aph(2'')-Ia				
+NGS_2023_233	E197	aph(2'')	aph(2'')-Ia_3_AJ536195	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin"	12716781	Enzymatic modification	Bifunctional aac(6')-Ie-aph(2'')-Ia				
+NGS_2023_233	E197	aph(3')	aph(3')-IIa_1_X57709	Aminoglycoside	"Kanamycin, Neomycin, Paromomycin, Ribostamycin, Butiromycin, Gentamicin"	1664906	Enzymatic modification					
+NGS_2023_233	E197	aph(3')	aph(3')-IIa_2_V00618	Aminoglycoside	"Kanamycin, Neomycin"	6295884	Enzymatic modification					
+NGS_2023_233	E197	aph(4)	aph(4)-Ia_1_V01499	Aminoglycoside	Hygromycin	6314265	Enzymatic modification	Alternative name hph				
+NGS_2023_233	E197	blaCTX	blaCTX-M-104_1_HQ833652	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22325120	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaCTX	blaCTX-M-192_1_KY271098	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaCTX	blaCTX-M-198_1_KY646304	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaKPC	blaKPC-36_1_MH593787	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid, Ceftazidime+Avibactam"	31593765	Enzymatic modification	Class A;Group 2f				
+NGS_2023_233	E197	blaSHV	blaSHV-159_1_JX121126	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-116_1_AY425988	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	"15243036, 8825372"	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-157_1_DQ909059	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-158_1_EF534736	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	17709463	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-162_1_EF468463	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-171_1_GQ149347	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-181_1_KM977568	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-187_1_HM246246	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	23478954	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-189_1_JN254627	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-197_1_HQ877606	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-1B_1_AY458016	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	15388431	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-206_1_KC783461	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-209_1_KF240808	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-210_1_KJ484630	Beta-lactam	Unknown Beta-lactam	24920651	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-219_1_KM114268	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-229_1_MG821356	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	blaTEM	blaTEM-32_1_CXLQ01000061	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_233	E197	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_233	E197	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_233	E197	sul1	sul1_26_AY524415	Folate pathway antagonist	Sulfamethoxazole	18753343	Purine synthesis					
+NGS_2023_233	E197	tet(32)	tet(32)_2_EF626943	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	18955517	Target protection					
+NGS_2023_233	E197	tet(O/W)	tet(O/W)-1_1_AY485126	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	15184185	Target protection					
+NGS_2023_234	E198	aac(3)	aac(3)-IId_1_EU022314	Aminoglycoside	"Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin"	20185552	Enzymatic modification					
+NGS_2023_234	E198	blaCTX	blaCTX-M-65_1_EF418608	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_234	E198	blaCTX	blaCTX-M-99_1_HM803271	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_234	E198	blaKPC	blaKPC-18_1_KT884517	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_234	E198	blaSHV	blaSHV-12_1_KF976405	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	"26038408, 16678922"	Enzymatic inactivation	Class A				
+NGS_2023_234	E198	blaSHV	blaSHV-160_1_JX121127	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_234	E198	blaTEM	blaTEM-116_1_AY425988	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	"15243036, 8825372"	Enzymatic inactivation	Class A				
+NGS_2023_234	E198	blaTEM	blaTEM-97_1_AF397067	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_234	E198	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_234	E198	qacE	qacE_1_X68232	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	8494372	Efflux pump					
+NGS_2023_235	E199	blaKPC	blaKPC-21_1_LN609376	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_235	E199	blaKPC	blaKPC-24_1_KR052099	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_235	E199	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_235	E199	blaSHV	blaSHV-196_1_KX714286	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_235	E199	blaSHV	blaSHV-5_1_X55640	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	2088203	Enzymatic inactivation	Class A				
+NGS_2023_235	E199	blaTEM	blaTEM-157_1_DQ909059	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_235	E199	erm(B)	erm(B)_2_K00551	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	6406429	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_235	E199	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_235	E199	msr(C)	msr(C)_1_AY004350	"Macrolide, Streptogramin B"	"Erythromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	"11120975, 27006457"	Target protection	ABC transporter				
+NGS_2023_235	E199	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_235	E199	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_235	E199	tet(M)	tet(M)_3_U08812	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	3344217	Target protection					
+NGS_2023_235	E199	tet(M)	tet(M)_8_X04388	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	3020504	Target protection					
+NGS_2023_235	E199	VanHAX	VanHAX_2_M97297	Glycopeptide	"Vancomycin, Teicoplanin"	8380148	Target modification					
+NGS_2023_236	E200	aph(6)	aph(6)-Id_4_CP000971	Aminoglycoside	Streptomycin	18708504	Enzymatic modification	Alternative name strB				
+NGS_2023_236	E200	blaCTX	blaCTX-M-110_1_JF274242	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	21859815	Enzymatic inactivation	Class A				
+NGS_2023_236	E200	blaKPC	blaKPC-6_1_EU555534	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	22908150	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_236	E200	blaSHV	blaSHV-160_1_JX121127	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_236	E200	blaSHV	blaSHV-183_1_HG934764	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_236	E200	blaTEM	blaTEM-127_1_AY368236	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	15650379	Enzymatic inactivation	Class A				
+NGS_2023_236	E200	mph(E)	mph(E)_1_DQ839391	Macrolide	Erythromycin	17261525	Enzymatic inactivation	Macrolide phosphotransferase				
+NGS_2023_236	E200	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_236	E200	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_236	E200	sul1	sul1_15_EF667294	Folate pathway antagonist	Sulfamethoxazole	18993034	Purine synthesis					
+NGS_2023_236	E200	sul1	sul1_20_JF262165	Folate pathway antagonist	Sulfamethoxazole	21537009	Purine synthesis					
+NGS_2023_236	E200	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_236	E200	tet(M)	tet(M)_11_JN846696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_236	E200	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+NGS_2023_237	E202	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+NGS_2023_237	E202	ant(6)	ant(6)-Ia_1_AF330699	Aminoglycoside	Streptomycin	11600397	Enzymatic modification	" Alternative name ant6, aadE"				
+NGS_2023_237	E202	aph(3'')	aph(3'')-Ib_2_AF024602	Aminoglycoside	Streptomycin	9687410	Enzymatic modification	"Alternative name strA, orfH"				
+NGS_2023_237	E202	blaKPC	blaKPC-11_1_HM066995	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"21670192, 22322349"	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_237	E202	blaKPC	blaKPC-25_1_KU216748	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_237	E202	blaSHV	blaSHV-134_1_HM559945	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_237	E202	blaTEM	blaTEM-115_1_AF535127	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	15047521	Enzymatic inactivation	Class A				
+NGS_2023_237	E202	blaTEM	blaTEM-116_1_AY425988	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	"15243036, 8825372"	Enzymatic inactivation	Class A				
+NGS_2023_237	E202	blaTEM	blaTEM-181_1_KM977568	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_237	E202	blaTEM	blaTEM-229_1_MG821356	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_237	E202	blaTEM	blaTEM-54_1_AF104442	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	9925535	Enzymatic inactivation	Class A				
+NGS_2023_237	E202	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_237	E202	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_237	E202	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_237	E202	qacE	qacE_1_X68232	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	8494372	Efflux pump					
+NGS_2023_237	E202	qnrS10	qnrS10_1_JN836269	Quinolone	Ciprofloxacin	23648253	Target protection					
+NGS_2023_237	E202	sul1	sul1_9_AY963803	Folate pathway antagonist	Sulfamethoxazole	15968049		Purine synthesis				
+NGS_2023_237	E202	tet(M)	tet(M)_2_X90939	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	8595862	Target protection					
+NGS_2023_238	E205	blaCTX	blaCTX-M-105_1_HQ833651	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22407683	Enzymatic inactivation	Class A				
+NGS_2023_238	E205	blaKPC	blaKPC-16_1_KC465199	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_238	E205	blaLAP	blaLAP-2_1_EU159120	Beta-lactam	"Amoxicillin, Ampicillin, Cephalotin, Piperacillin, Ticarcillin"	18550213	Enzymatic inactivation	Class A				
+NGS_2023_238	E205	blaTEM	blaTEM-116_1_AY425988	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	"15243036, 8825372"	Enzymatic inactivation	Class A				
+NGS_2023_238	E205	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_238	E205	erm(B)	erm(B)_12_U18931	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	7486927	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_238	E205	fosX	fosX_2_AL591981	Fosfomycin	Fosfomycin	11679669	Enzymatic inactivation					
+NGS_2023_238	E205	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_238	E205	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_238	E205	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_238	E205	qnrS8	qnrS8_1_KF730652	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_238	E205	tet(L)	tet(L)_3_M11036	Tetracycline	"Doxycycline, Tetracycline"	2996983	Increased efflux					
+NGS_2023_238	E205	tet(M)	tet(M)_12_FR671418	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	21273480	Target protection					
+NGS_2023_239	E206	ant(3'')	ant(3'')-Ia_1_X02340	Aminoglycoside	Streptomycin	8385262	Enzymatic modification	"Alternative name aadA, aad(3')(9), aadA1, aadA1a"				
+NGS_2023_239	E206	blaCTX	blaCTX-M-134_1_JX896165	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_239	E206	blaCTX	blaCTX-M-65_1_EF418608	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_239	E206	blaSHV	blaSHV-143_1_JQ341060	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_239	E206	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_239	E206	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_239	E206	qacG	qacG_1_EU622633	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	20660673	Efflux pump					
+NGS_2023_239	E206	sul1	sul1_39_AY522923	Folate pathway antagonist	Sulfamethoxazole	16339607	Purine synthesis					
+NGS_2023_240	E209	aph(3')	aph(3')-IIIa_2_AJ490186	Aminoglycoside	Amikacin	unpublished	Enzymatic modification					
+NGS_2023_240	E209	blaSHV	blaSHV-81_1_AM176556	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_240	E209	blaZ	blaZ_91_FKQH01000022	Beta-lactam	"Amoxicillin, Ampicillin, Penicillin, Piperacillin"	unpublished	Enzymatic inactivation	Class A				
+NGS_2023_240	E209	mdf(A)	mdf(A)_1_Y08743	"Macrolide, Aminoglycoside, Tetracycline, Quinolone, Amphenicol, Rifamycin"	"Unknown Macrolide, Unknown Aminoglycoside, Unknown Tetracycline, Unknown Quinolone, Unknown Amphenicol, Unknown Rifamycin"	9079913	Increased efflux	"Mdf(A) has broad spectrum specificity including Erythromycin, Tetracycline, Rifampicin, Kanamycin, Chloramphenicol and Ciprofloxacin but it is unclear which level of resistance it confers"				
+NGS_2023_240	E209		mecA_1_NC									
+NGS_2023_240	E209		mecA_2_NC									
+NGS_2023_240	E209	mecA	mecA_6_BX571856	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam"	15213324	Target modification					
+NGS_2023_240	E209	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_240	E209	qacC	qacC_1_M37889	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_240	E209	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_240	E209	qnrS13	qnrS13_1_LUYD01000008	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_240	E209	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_240	E209	tet(39)	tet(39)_1_KT346360	Tetracycline	"Doxycycline, Tetracycline"	26416779	Increased efflux					
+NGS_2023_240	E209	tet(A)	tet(A)_4_AJ517790	Tetracycline	"Doxycycline, Tetracycline"	12654659	Increased efflux					
+NGS_2023_240	E209	tet(A)	tet(A)_6_AF534183	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_240	E209	tet(K)	tet(K)_1_U38656	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_240	E209	aph(3')	aph(3')-IIIa_2_AJ490186	Aminoglycoside	Amikacin	unpublished	Enzymatic modification					
+NGS_2023_240	E209	blaSHV	blaSHV-81_1_AM176556	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_240	E209	blaZ	blaZ_91_FKQH01000022	Beta-lactam	"Amoxicillin, Ampicillin, Penicillin, Piperacillin"	unpublished	Enzymatic inactivation	Class A				
+NGS_2023_240	E209	mdf(A)	mdf(A)_1_Y08743	"Macrolide, Aminoglycoside, Tetracycline, Quinolone, Amphenicol, Rifamycin"	"Unknown Macrolide, Unknown Aminoglycoside, Unknown Tetracycline, Unknown Quinolone, Unknown Amphenicol, Unknown Rifamycin"	9079913	Increased efflux	"Mdf(A) has broad spectrum specificity including Erythromycin, Tetracycline, Rifampicin, Kanamycin, Chloramphenicol and Ciprofloxacin but it is unclear which level of resistance it confers"				
+NGS_2023_240	E209		mecA_1_NC									
+NGS_2023_240	E209		mecA_2_NC									
+NGS_2023_240	E209	mecA	mecA_6_BX571856	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam"	15213324	Target modification					
+NGS_2023_240	E209	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_240	E209	qacC	qacC_1_M37889	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_240	E209	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_240	E209	qnrS13	qnrS13_1_LUYD01000008	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_240	E209	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_240	E209	tet(39)	tet(39)_1_KT346360	Tetracycline	"Doxycycline, Tetracycline"	26416779	Increased efflux					
+NGS_2023_240	E209	tet(A)	tet(A)_4_AJ517790	Tetracycline	"Doxycycline, Tetracycline"	12654659	Increased efflux					
+NGS_2023_240	E209	tet(A)	tet(A)_6_AF534183	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_240	E209	tet(K)	tet(K)_1_U38656	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_242	E212	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_242	E212	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_242	E212	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+NGS_2023_242	E212	aac(6')	aac(6')-Ib-cr_1_DQ303918	"Aminoglycoside, Quinolone"	"Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin"	unpublished	Enzymatic modification	MIC of ciprofloxacin does not always increase above ECOFF PMID 16369542				
+NGS_2023_242	E212	aac(6')	aac(6')-Ib-cr_1_DQ303918	Quinolone	Ciprofloxacin	unpublished	Enzymatic inactivation	MIC of ciprofloxacin does not always increase above ECOFF PMID 16369542				
+NGS_2023_242	E212	aadA8b	aadA8b_2_AM040708	Aminoglycoside	"Spectinomycin, Streptomycin"	16291869	Enzymatic modification					
+NGS_2023_242	E212	aph(4)	aph(4)-Ia_1_V01499	Aminoglycoside	Hygromycin	6314265	Enzymatic modification	Alternative name hph				
+NGS_2023_242	E212	blaKPC	blaKPC-6_1_EU555534	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	22908150	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_242	E212	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_242	E212	erm(C)	erm(C)_3_M17990	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	2822666	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_242	E212	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_242	E212	sitABCD	sitABCD_1_AY598030	Peroxide	Hydrogen peroxide	16514154	Transport					
+NGS_2023_242	E212	sul1	sul1_20_JF262165	Folate pathway antagonist	Sulfamethoxazole	21537009	Purine synthesis					
+NGS_2023_242	E212	tet(C)	tet(C)_3_AF055345	Tetracycline	"Doxycycline, Tetracycline"	11591134	Increased efflux					
+NGS_2023_242	E212	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_242	E212	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_242	E212	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+NGS_2023_242	E212	aac(6')	aac(6')-Ib-cr_1_DQ303918	"Aminoglycoside, Quinolone"	"Tobramycin, Dibekacin, Amikacin, Sisomicin, Netilmicin, Fluoroquinolone, Ciprofloxacin"	unpublished	Enzymatic modification	MIC of ciprofloxacin does not always increase above ECOFF PMID 16369542				
+NGS_2023_242	E212	aac(6')	aac(6')-Ib-cr_1_DQ303918	Quinolone	Ciprofloxacin	unpublished	Enzymatic inactivation	MIC of ciprofloxacin does not always increase above ECOFF PMID 16369542				
+NGS_2023_242	E212	aadA8b	aadA8b_2_AM040708	Aminoglycoside	"Spectinomycin, Streptomycin"	16291869	Enzymatic modification					
+NGS_2023_242	E212	aph(4)	aph(4)-Ia_1_V01499	Aminoglycoside	Hygromycin	6314265	Enzymatic modification	Alternative name hph				
+NGS_2023_242	E212	blaKPC	blaKPC-6_1_EU555534	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	22908150	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_242	E212	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_242	E212	erm(C)	erm(C)_3_M17990	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	2822666	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_242	E212	lsa(A)	lsa(A)_1_AY225127	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"12821484, 27006457"	Target protection	ABC transporter				
+NGS_2023_242	E212	sitABCD	sitABCD_1_AY598030	Peroxide	Hydrogen peroxide	16514154	Transport					
+NGS_2023_242	E212	sul1	sul1_20_JF262165	Folate pathway antagonist	Sulfamethoxazole	21537009	Purine synthesis					
+NGS_2023_242	E212	tet(C)	tet(C)_3_AF055345	Tetracycline	"Doxycycline, Tetracycline"	11591134	Increased efflux					
+NGS_2023_243	E252	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_243	E252	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_243	E252	ant(3'')	ant(3'')-Ia_1_X02340	Aminoglycoside	Streptomycin	8385262	Enzymatic modification	"Alternative name aadA, aad(3')(9), aadA1, aadA1a"				
+NGS_2023_243	E252	blaKPC	blaKPC-22_1_KM379100	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_243	E252	blaSHV	blaSHV-183_1_HG934764	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_243	E252	erm(B)	erm(B)_6_AF242872	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	11023445	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_243	E252	sul1	sul1_32_EF592571	Folate pathway antagonist	Sulfamethoxazole	17698627	Purine synthesis					
+NGS_2023_243	E252	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_243	E252	tet(M)	tet(M)_12_FR671418	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	21273480	Target protection					
+NGS_2023_244	E253	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_244	E253	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_244	E253	blaADC	blaADC-25_1_EF016355	Beta-lactam	Unknown Beta-lactam	18077141	Enzymatic inactivation	Chromosomal				
+NGS_2023_244	E253	blaCTX	blaCTX-M-90_1_FJ907381	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_244	E253	blaKPC	blaKPC-17_1_KC465200	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_244	E253	blaKPC	blaKPC-35_1_MH404098	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_244	E253	blaSHV	blaSHV-157_1_JX121124	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_244	E253	qnrS9	qnrS9_1_KF732714	Quinolone	Ciprofloxacin	24607424	Target protection					
+NGS_2023_244	E253	tet(39)	tet(39)_1_KT346360	Tetracycline	"Doxycycline, Tetracycline"	26416779	Increased efflux					
+NGS_2023_244	E253	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_244	E253	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_244	E253	blaADC	blaADC-25_1_EF016355	Beta-lactam	Unknown Beta-lactam	18077141	Enzymatic inactivation	Chromosomal				
+NGS_2023_244	E253	blaCTX	blaCTX-M-90_1_FJ907381	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_244	E253	blaKPC	blaKPC-17_1_KC465200	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_244	E253	blaKPC	blaKPC-35_1_MH404098	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_244	E253	blaSHV	blaSHV-157_1_JX121124	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_244	E253	qnrS9	qnrS9_1_KF732714	Quinolone	Ciprofloxacin	24607424	Target protection					
+NGS_2023_244	E253	tet(39)	tet(39)_1_KT346360	Tetracycline	"Doxycycline, Tetracycline"	26416779	Increased efflux					
+NGS_2023_245	E254	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_245	E254	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_245	E254	aadA15	aadA15_1_DQ393783	Aminoglycoside	"Spectinomycin, Streptomycin"	16816399	Enzymatic modification					
+NGS_2023_245	E254	aph(4)	aph(4)-Ia_1_V01499	Aminoglycoside	Hygromycin	6314265	Enzymatic modification	Alternative name hph				
+NGS_2023_245	E254	blaCTX	blaCTX-M-17_1_AY033516	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	11959547	Enzymatic inactivation	Class A				
+NGS_2023_245	E254	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_245	E254	blaSHV	blaSHV-52_1_HQ845196	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_245	E254	blaSHV	blaSHV-74_1_AM176549	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_245	E254	blaTEM	blaTEM-187_1_HM246246	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	23478954	Enzymatic inactivation	Class A				
+NGS_2023_245	E254	blaTEM	blaTEM-216_1_KF944358	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_245	E254	mef(A)	mef(A)_3_AF227520	Macrolide	"Erythromycin, Azithromycin"	"10952626, 27786586"	Increased efflux	MFS transporter				
+NGS_2023_245	E254	sul1	sul1_2_U12338	Folate pathway antagonist	Sulfamethoxazole	unpublished		Purine synthesis				
+NGS_2023_245	E254	tet(L)	tet(L)_3_M11036	Tetracycline	"Doxycycline, Tetracycline"	2996983	Increased efflux					
+NGS_2023_245	E254	tet(M)	tet(M)_11_JN846696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_245	E254	tet(M)	tet(M)_12_FR671418	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	21273480	Target protection					
+NGS_2023_246	E256	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_246	E256	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_246	E256	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+NGS_2023_246	E256	aadA17	aadA17_1_FJ460181	Aminoglycoside	"Spectinomycin, Streptomycin"	22127350	Enzymatic modification					
+NGS_2023_246	E256	aadA2b	aadA2b_1_D43625	Aminoglycoside	"Spectinomycin, Streptomycin"	85862590	Enzymatic modification					
+NGS_2023_246	E256	blaLAP	blaLAP-2_1_EU159120	Beta-lactam	"Amoxicillin, Ampicillin, Cephalotin, Piperacillin, Ticarcillin"	18550213	Enzymatic inactivation	Class A				
+NGS_2023_246	E256	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_246	E256	erm(B)	erm(B)_11_M19270	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	2832378	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_246	E256	erm(B)	erm(B)_22_X52632	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	2163525	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_246	E256	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_246	E256	tet(M)	tet(M)_7_FN433596	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	19948800	Target protection					
+NGS_2023_247	E257	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_247	E257	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_247	E257	aadA8	aadA8_1_AF326210	Aminoglycoside	"Spectinomycin, Streptomycin"	11557503	Enzymatic modification					
+NGS_2023_247	E257	aadA8b	aadA8b_2_AM040708	Aminoglycoside	"Spectinomycin, Streptomycin"	16291869	Enzymatic modification					
+NGS_2023_247	E257	ant(6)	ant(6)-Ia_1_AF330699	Aminoglycoside	Streptomycin	11600397	Enzymatic modification	" Alternative name ant6, aadE"				
+NGS_2023_247	E257	aph(3'')	aph(3'')-Ib_3_AF321550	Aminoglycoside	Streptomycin	12029529	Enzymatic modification	"Alternative name strA, orfH"				
+NGS_2023_247	E257	blaCTX	blaCTX-M-38_1_AY822595	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaKPC	blaKPC-30_1_KY646302	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_247	E257	blaSHV	blaSHV-108_1_AM922309	Beta-lactam	Unknown Beta-lactam	21359845	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-128_1_GU932590	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	25888770	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-135_1_HQ637576	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-183_1_HG934764	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-28_1_AF299299	Beta-lactam	Unknown Beta-lactam	19172061	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-79_1_AM176554	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-96_1_EF373971	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-126_1_AY628199	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	15282240	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-148_1_AM087454	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-186_1_JN227084	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-1A_1_HM749966	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	21393132	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	fosA7	fosA7_1_LAPJ01000014	Fosfomycin	Fosfomycin	26083489	Enzymatic inactivation					
+NGS_2023_247	E257	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_247	E257	msr(A)	msr(A)_1_X52085	"Macrolide, Streptogramin B"	"Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	"2233255, 27006457, 27786586"	Target protection	ABC transporter				
+NGS_2023_247	E257	mupA	mupA_2_GU237136	Pseudomonic acid	Mupirocin	20211895	Alternate Patheway					
+NGS_2023_247	E257	tet(M)	tet(M)_10_EU182585	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_247	E257	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+NGS_2023_247	E257	vga(A)LC	vga(A)LC_4_JQ312423	"Lincosamide, Streptogramin A, Pleuromutilin"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin"	"23796922, 18838584, 15728891"	Target protection	ABC transporter				
+NGS_2023_247	E257	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_247	E257	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_247	E257	aadA8	aadA8_1_AF326210	Aminoglycoside	"Spectinomycin, Streptomycin"	11557503	Enzymatic modification					
+NGS_2023_247	E257	aadA8b	aadA8b_2_AM040708	Aminoglycoside	"Spectinomycin, Streptomycin"	16291869	Enzymatic modification					
+NGS_2023_247	E257	ant(6)	ant(6)-Ia_1_AF330699	Aminoglycoside	Streptomycin	11600397	Enzymatic modification	" Alternative name ant6, aadE"				
+NGS_2023_247	E257	aph(3'')	aph(3'')-Ib_3_AF321550	Aminoglycoside	Streptomycin	12029529	Enzymatic modification	"Alternative name strA, orfH"				
+NGS_2023_247	E257	blaCTX	blaCTX-M-38_1_AY822595	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaKPC	blaKPC-30_1_KY646302	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_247	E257	blaSHV	blaSHV-108_1_AM922309	Beta-lactam	Unknown Beta-lactam	21359845	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-128_1_GU932590	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	25888770	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-135_1_HQ637576	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-183_1_HG934764	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-28_1_AF299299	Beta-lactam	Unknown Beta-lactam	19172061	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-79_1_AM176554	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	19272757	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaSHV	blaSHV-96_1_EF373971	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-126_1_AY628199	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	15282240	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-148_1_AM087454	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-186_1_JN227084	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	blaTEM	blaTEM-1A_1_HM749966	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	21393132	Enzymatic inactivation	Class A				
+NGS_2023_247	E257	fosA7	fosA7_1_LAPJ01000014	Fosfomycin	Fosfomycin	26083489	Enzymatic inactivation					
+NGS_2023_247	E257	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_247	E257	msr(A)	msr(A)_1_X52085	"Macrolide, Streptogramin B"	"Erythromycin, Azithromycin, Telithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	"2233255, 27006457, 27786586"	Target protection	ABC transporter				
+NGS_2023_247	E257	mupA	mupA_2_GU237136	Pseudomonic acid	Mupirocin	20211895	Alternate Patheway					
+NGS_2023_247	E257	tet(M)	tet(M)_10_EU182585	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_247	E257	tet(Q)	tet(Q)_1_L33696	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	7944364	Target protection					
+NGS_2023_247	E257	vga(A)LC	vga(A)LC_4_JQ312423	"Lincosamide, Streptogramin A, Pleuromutilin"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin"	"23796922, 18838584, 15728891"	Target protection	ABC transporter				
+NGS_2023_248	E262	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_248	E262	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_248	E262	aac(3)	aac(3)-IIa_4_L22613	Aminoglycoside	"Gentamicin, Tobramycin"	8117265	Enzymatic modification					
+NGS_2023_248	E262	aac(6')	aac(6')-aph(2'')_1_M13771	Aminoglycoside	"Gentamicin, Tobramycin, Netilmicin, Kanamycin, Amikacin, Dibekacin, Isepamicin, Fortimicin, Streptomycin"	3015884	Enzymatic modification	"Alternative name aac(6')-bifunctional, aac(6')-Ie, aacA-aphD, aac(6')-Ie-aph(2'')-Ia"				
+NGS_2023_248	E262	aadA2	aadA2_2_JQ364967	Aminoglycoside	"Spectinomycin, Streptomycin"	22511964	Enzymatic modification					
+NGS_2023_248	E262	aph(3')	aph(3')-Ia_1_V00359	Aminoglycoside	"Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin"	6270337	Enzymatic modification					
+NGS_2023_248	E262	blaCTX	blaCTX-M-105_1_HQ833651	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22407683	Enzymatic inactivation	Class A				
+NGS_2023_248	E262	blaCTX	blaCTX-M-113_1_JF274247	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	21859815	Enzymatic inactivation	Class A				
+NGS_2023_248	E262	blaCTX	blaCTX-M-38_1_AY822595	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_248	E262	blaCTX	blaCTX-M-51_1_DQ211987	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_248	E262	blaKPC	blaKPC-33_1_CP025144	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_248	E262	blaKPC	blaKPC-39_1_MK118771	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid, Ceftazidime+Avibactam"	31332070	Enzymatic modification	Class A;Group 2f				
+NGS_2023_248	E262	blaSHV	blaSHV-107_1_AM922308	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	22083476	Enzymatic inactivation	Class A				
+NGS_2023_248	E262	blaSHV	blaSHV-96_1_EF373971	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_248	E262	blaTEM	blaTEM-28_1_U37195	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	8787920	Enzymatic inactivation	Class A				
+NGS_2023_248	E262	cmx	cmx_1_U85507	Amphenicol	Chloramphenicol	unpublished	Increased efflux	MFS transporter				
+NGS_2023_248	E262	erm(A)	erm(A)_1_X03216	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3004956	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_248	E262	qnrS1	qnrS1_1_AB187515	Quinolone	Ciprofloxacin	18426894	Target protection					
+NGS_2023_248	E262	sul1	sul1_36_X15024	Folate pathway antagonist	Sulfamethoxazole	2662140	Purine synthesis	Purine synthesis				
+NGS_2023_248	E262	tet(32)	tet(32)_2_EF626943	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	18955517	Target protection					
+NGS_2023_248	E262	tet(M)	tet(M)_5_U58985	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	9372426	Target protection					
+NGS_2023_249	E263	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_249	E263	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_249	E263	blaKPC	blaKPC-12_1_HQ641422	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_249	E263	blaKPC	blaKPC-5_1_EU400222	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"19015357, 23114770"	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_249	E263	blaKPC	blaKPC-7_1_EU729727	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	20513702	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_249	E263	blaSHV	blaSHV-183_1_HG934764	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_249	E263	erm(B)	erm(B)_23_X72021	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	7514148	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_249	E263	mupA	mupA_1_X75439	Pseudomonic acid	Mupirocin	8067768		Alternate Pathway				
+NGS_2023_250	E264	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_250	E264	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_250	E264	aadA2b	aadA2b_1_D43625	Aminoglycoside	"Spectinomycin, Streptomycin"	85862590	Enzymatic modification					
+NGS_2023_250	E264	blaKPC	blaKPC-12_1_HQ641422	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_250	E264		blaKPC-40_1_NG									
+NGS_2023_250	E264	blaSHV	blaSHV-95_1_EF373972	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_250	E264	blaTEM	blaTEM-116_1_AY425988	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	"15243036, 8825372"	Enzymatic inactivation	Class A				
+NGS_2023_250	E264	blaTEM	blaTEM-219_1_KM114268	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_250	E264	erm(C)	erm(C)_15_U82607	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	9169203	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_250	E264	erm(X)	erm(X)_3_U21300	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8559800	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_250	E264	qacC	qacC_1_M37889	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_250	E264	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_250	E264	sitABCD	sitABCD_1_AY598030	Peroxide	Hydrogen peroxide	16514154	Transport					
+NGS_2023_250	E264	tet(M)	tet(M)_6_M21136	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	2073121	Target protection					
+NGS_2023_250	E264	tet(M)	tet(M)_8_X04388	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	3020504	Target protection					
+NGS_2023_250	E264	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_250	E264	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_250	E264	aadA2b	aadA2b_1_D43625	Aminoglycoside	"Spectinomycin, Streptomycin"	85862590	Enzymatic modification					
+NGS_2023_250	E264	blaKPC	blaKPC-12_1_HQ641422	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_250	E264		blaKPC-40_1_NG									
+NGS_2023_250	E264	blaSHV	blaSHV-95_1_EF373972	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_250	E264	blaTEM	blaTEM-116_1_AY425988	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	"15243036, 8825372"	Enzymatic inactivation	Class A				
+NGS_2023_250	E264	blaTEM	blaTEM-219_1_KM114268	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_250	E264	erm(C)	erm(C)_15_U82607	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	9169203	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_250	E264	erm(X)	erm(X)_3_U21300	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	8559800	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_250	E264	qacC	qacC_1_M37889	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_250	E264	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_250	E264	sitABCD	sitABCD_1_AY598030	Peroxide	Hydrogen peroxide	16514154	Transport					
+NGS_2023_250	E264	tet(M)	tet(M)_6_M21136	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	2073121	Target protection					
+NGS_2023_250	E264	tet(M)	tet(M)_8_X04388	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	3020504	Target protection					
+NGS_2023_251	E266	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_251	E266	blaKPC	blaKPC-22_1_KM379100	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_251	E266	blaSHV	blaSHV-158_1_JX121125	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_251	E266	erm(B)	erm(B)_22_X52632	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	2163525	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_251	E266	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_251	E266	lsa(A)	lsa(A)_3_AY737526	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"15616272, 27006457"	Target protection	ABC transporter				
+NGS_2023_251	E266	mupA	mupA_1_X75439	Pseudomonic acid	Mupirocin	8067768		Alternate Pathway				
+NGS_2023_251	E266	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_251	E266	qacH	qacH_1_FJ172381	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	20660673	Efflux pump					
+NGS_2023_252	E267	aac(3)	aac(3)-IId_1_EU022314	Aminoglycoside	"Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin"	20185552	Enzymatic modification					
+NGS_2023_252	E267	aph(6)	aph(6)-Id_4_CP000971	Aminoglycoside	Streptomycin	18708504	Enzymatic modification	Alternative name strB				
+NGS_2023_252	E267	blaCTX	blaCTX-M-104_1_HQ833652	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22325120	Enzymatic inactivation	Class A				
+NGS_2023_252	E267	blaCTX	blaCTX-M-168_1_KR537429	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_252	E267	blaCTX	blaCTX-M-27_1_AY156923	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	12775683	Enzymatic inactivation	Class A				
+NGS_2023_252	E267	blaKPC	blaKPC-11_1_HM066995	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"21670192, 22322349"	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_252	E267	blaKPC	blaKPC-33_1_CP025144	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_252	E267	blaSHV	blaSHV-110_1_HQ877615	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A Chromosomal				
+NGS_2023_252	E267	blaSHV	blaSHV-64_1_DQ174304	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_252	E267	blaTEM	blaTEM-91_1_AB049569	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	12937007	Enzymatic inactivation	Class A				
+NGS_2023_252	E267	blaTEM	blaTEM-96_1_AY092401	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_252	E267	cat	cat_5_U35036	Amphenicol	Chloramphenicol	unpublished	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_252	E267	catA1	catA1_1_V00622	Amphenicol	Chloramphenicol	390403	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_252	E267	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_252	E267	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_252	E267	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_252	E267	qnrS8	qnrS8_1_KF730652	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_252	E267	sitABCD	sitABCD_1_AY598030	Peroxide	Hydrogen peroxide	16514154	Transport					
+NGS_2023_252	E267	sul1	sul1_17_AM746675	Folate pathway antagonist	Sulfamethoxazole	17827139	Purine synthesis					
+NGS_2023_252	E267	tet(W)	tet(W)_3_AJ427421	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	11207718	Target protection					
+NGS_2023_253	E275	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_253	E275	qnrS1	qnrS1_1_AB187515	Quinolone	Ciprofloxacin	18426894	Target protection					
+NGS_2023_254	E277		aac(6')-Iaa_1_NC									
+NGS_2023_254	E277	blaCTX	blaCTX-M-147_1_KF513180	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	blaCTX	blaCTX-M-90_1_FJ907381	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	blaSHV	blaSHV-156_1_JX121123	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	blaSHV	blaSHV-159_1_JX121126	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	blaSHV	blaSHV-198_1_MF281086	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	blaTEM	blaTEM-116_1_AY425988	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	"15243036, 8825372"	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	blaTEM	blaTEM-231_1_MG821378	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	blaTEM	blaTEM-68_1_AJ239002	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	10817699	Enzymatic inactivation	Class A				
+NGS_2023_254	E277	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_254	E277	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_254	E277	sitABCD	sitABCD_1_AY598030	Peroxide	Hydrogen peroxide	16514154	Transport					
+NGS_2023_254	E277	tet(40)	tet(40)_1_FJ158002	Tetracycline	"Doxycycline, Tetracycline"	19168656	Increased efflux					
+NGS_2023_254	E277	VanHAX	VanHAX_1_FJ866609	Glycopeptide	"Vancomycin, Teicoplanin"	20519356	Target modification					
+NGS_2023_255	E304	blaKPC	blaKPC-13_1_HQ342889	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_255	E304	blaKPC	blaKPC-18_1_KT884517	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_255	E304	blaKPC	blaKPC-9_1_FJ624872	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	22964247	Enzymatic inactivation	Class A;Group 2f;It might be an incomplete version of KPC-23				
+NGS_2023_255	E304	blaSHV	blaSHV-121_1_GQ428198	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_255	E304	blaSHV	blaSHV-96_1_EF373971	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_255	E304		blaZ_55_NZ									
+NGS_2023_255	E304	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_255	E304	lsa(A)	lsa(A)_3_AY737526	"Lincosamide, Streptogramin A"	"Lincomycin, Clindamycin, Dalfopristin, Pristinamycin IIA, Virginiamycin M"	"15616272, 27006457"	Target protection	ABC transporter				
+NGS_2023_255	E304	mupA	mupA_2_GU237136	Pseudomonic acid	Mupirocin	20211895	Alternate Patheway					
+NGS_2023_255	E304	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_255	E304	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_255	E304	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_255	E304	tet(L)	tet(L)_2_M29725	Tetracycline	"Doxycycline, Tetracycline"	2438417	Increased efflux					
+NGS_2023_255	E304	VanHAX	VanHAX_1_FJ866609	Glycopeptide	"Vancomycin, Teicoplanin"	20519356	Target modification					
+NGS_2023_256	E305	blaKPC	blaKPC-34_1_KU985429	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_256	E305	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_256	E305	blaSHV	blaSHV-5_1_X55640	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	2088203	Enzymatic inactivation	Class A				
+NGS_2023_256	E305	blaSHV	blaSHV-97_1_EF373973	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_256	E305	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_256	E305	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_256	E305	qacD	qacD_1_M37888	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_256	E305	qnrS3	qnrS3_1_EU077611	Quinolone	Ciprofloxacin	18426894	Target protection					
+NGS_2023_257	E306	blaADC	blaADC-25_1_EF016355	Beta-lactam	Unknown Beta-lactam	18077141	Enzymatic inactivation	Chromosomal				
+NGS_2023_257	E306	blaCTX	blaCTX-M-122_1_JN790863	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_257	E306	blaKPC	blaKPC-31_1_MAPH01000113	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_257	E306	blaKPC	blaKPC-3_1_HM769262	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	21406433	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_257	E306	blaOXA	blaOXA-169_1_HM488990	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class D;OXA-23-like;;;				
+NGS_2023_257	E306	blaPAO	blaPAO_4_AY083592	Beta-lactam	"Amoxicillin, Ampicillin, Cefepime, Ceftazidime"	19258272	Enzymatic inactivation	class C beta-lactamase				
+NGS_2023_257	E306	blaSHV	blaSHV-190_1_KP868753	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_257	E306	blaZ	blaZ_82_FGSJ01000003	Beta-lactam	"Amoxicillin, Ampicillin, Penicillin, Piperacillin"	unpublished	Enzymatic inactivation	Class A				
+NGS_2023_257	E306	catA2	catA2_1_X53796	Amphenicol	Chloramphenicol	2268278	Enzymatic inactivation	Chloramphenicol acetyltransferase				
+NGS_2023_257	E306	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_257	E306	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_257	E306	sul1	sul1_33_AJ564903	Folate pathway antagonist	Sulfamethoxazole	18753343	Purine synthesis					
+NGS_2023_257	E306	tet(A)	tet(A)_2_X00006	Tetracycline	"Doxycycline, Tetracycline"	6310527	Increased efflux					
+NGS_2023_257	E306	tet(B)	tet(B)_3_AJ277653	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Increased efflux					
+NGS_2023_257	E306	tet(K)	tet(K)_1_U38656	Tetracycline	"Doxycycline, Tetracycline"	unpublished	Increased efflux					
+NGS_2023_257	E306	tet(L)	tet(L)_3_M11036	Tetracycline	"Doxycycline, Tetracycline"	2996983	Increased efflux					
+NGS_2023_257	E306	tet(L)	tet(L)_4_D00006	Tetracycline	"Doxycycline, Tetracycline"	2996983	Increased efflux					
+NGS_2023_257	E306	tet(M)	tet(M)_3_U08812	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	3344217	Target protection					
+NGS_2023_257	E306	VanHAX	VanHAX_2_M97297	Glycopeptide	"Vancomycin, Teicoplanin"	8380148	Target modification					
+NGS_2023_259	E310	aph(3')	aph(3')-IIb_2_CP006832	Aminoglycoside	Unknown Aminoglycoside	24336371	Enzymatic modification					
+NGS_2023_259	E310	blaSHV	blaSHV-11_1_X98101	Beta-lactam	"Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin"	9145849	Enzymatic inactivation	Class A				
+NGS_2023_259	E310	blaTEM	blaTEM-163_1_EU815939	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	25444130	Enzymatic inactivation	Class A				
+NGS_2023_259	E310	blaTEM	blaTEM-34_1_KC292503	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"23335113, 8067742"	Enzymatic inactivation	Class A				
+NGS_2023_259	E310	erm(33)	erm(33)_1_AJ579365	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	15471995	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_259	E310	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_259	E310	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_259	E310	qnrS4	qnrS4_1_FJ418153	Quinolone	Ciprofloxacin	19056747	Target protection					
+NGS_2023_259	E310	tet(M)	tet(M)_4_X75073	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_260	E312	blaSHV	blaSHV-189_1_KP050494	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_260	E312	blaSHV	blaSHV-195_1_KX619652	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_260	E312	cfr(C)	cfr(C)_1_KX686749	"Oxazolidinone, Amphenicol, Lincosamide, Streptogramin A, Pleuromutilin"	"Chloramphenicol, Florfenicol, Clindamycin, Lincomycin, Linezolid, Dalfopristin, Pristinamycin IIA, Virginiamycin M, Tiamulin"	28186558	Target modification	23S rRNA methylase				
+NGS_2023_260	E312	fosA5	fosA5_1_EU195449	Fosfomycin	Fosfomycin	18812424	Enzymatic inactivation					
+NGS_2023_260	E312	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_260	E312	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_260	E312	qacE	qacE_1_X68232	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	8494372	Efflux pump					
+NGS_2023_260	E312	qnrS12	qnrS12_1_MKQI01000097	Quinolone	Ciprofloxacin	unpublished	Target protection					
+NGS_2023_260	E312	sul1	sul1_5_EU780013	Folate pathway antagonist	Sulfamethoxazole	18753343		Purine synthesis				
+NGS_2023_261	E313	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_261	E313	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_261	E313	rmtB	rmtB_1_AB103506	Aminoglycoside	"Amikacin, Gentamicin, Tobramycin, Kanamycin, Arbekacin, Sisomicin, Isepamicin"	14742200	Target protection					
+NGS_2023_262	E314	blaSHV	blaSHV-129_1_GU827715	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	22322349	Enzymatic inactivation	Class A				
+NGS_2023_262	E314	blaSHV	blaSHV-158_1_JX121125	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_262	E314	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_263	E315	aph(3'')	aph(3'')-Ib_5_AF321551	Aminoglycoside	Streptomycin	12029529	Enzymatic modification	Alternative name strA				
+NGS_2023_263	E315	blaSHV	blaSHV-107_1_AM922308	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	22083476	Enzymatic inactivation	Class A				
+NGS_2023_263	E315	erm(C)	erm(C)_14_M12730	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	3084450	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_263	E315	fosA6	fosA6_1_KU254579	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_263	E315	mupA	mupA_2_GU237136	Pseudomonic acid	Mupirocin	20211895	Alternate Patheway					
+NGS_2023_263	E315	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_263	E315	qnrS10	qnrS10_1_JN836269	Quinolone	Ciprofloxacin	23648253	Target protection					
+NGS_2023_263	E315	tet(M)	tet(M)_1_X92947	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_263	E315	tet(M)	tet(M)_9_X56353	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	unpublished	Target protection					
+NGS_2023_265	E317	aadA8	aadA8_1_AF326210	Aminoglycoside	"Spectinomycin, Streptomycin"	11557503	Enzymatic modification					
+NGS_2023_265	E317	blaTEM	blaTEM-171_1_GQ149347	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_265	E317	erm(X)	erm(X)_2_X51472	"Macrolide, Lincosamide, Streptogramin B"	"Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S"	2110657	Target modification	"23S rRNA methylase; Azithromycin, Spiramycin resistance in Staphylococcus sp. and Streptococcus sp.; If inducible phenotype, patterns of spiramycin, lincomycin and clindamycin resistance may vary"				
+NGS_2023_265	E317	fosA	fosA_3_ACWO01000079	Fosfomycin	Fosfomycin	unpublished	Enzymatic inactivation					
+NGS_2023_265	E317	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_265	E317	VanHAX	VanHAX_2_M97297	Glycopeptide	"Vancomycin, Teicoplanin"	8380148	Target modification					
+NGS_2023_266	E318	blaKPC	blaKPC-28_1_KY282958	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Aztreonam, Cefepime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	Unpublished	Enzymatic inactivation	Class A;Group 2f;				
+NGS_2023_266	E318	blaTEM	blaTEM-115_1_AF535127	Beta-lactam	"Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin"	15047521	Enzymatic inactivation	Class A				
+NGS_2023_266	E318	mupA	mupA_2_GU237136	Pseudomonic acid	Mupirocin	20211895	Alternate Patheway					
+NGS_2023_266	E318	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_266	E318	qacG	qacG_1_EU622633	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	20660673	Efflux pump					
+NGS_2023_266	E318	tet(L)	tet(L)_2_M29725	Tetracycline	"Doxycycline, Tetracycline"	2438417	Increased efflux					
+NGS_2023_266	E318	tet(M)	tet(M)_5_U58985	Tetracycline	"Doxycycline, Tetracycline, Minocycline"	9372426	Target protection					
+NGS_2023_268	E320	blaSHV	blaSHV-155_1_JX121122	Beta-lactam	Unknown Beta-lactam	23587957	Enzymatic inactivation	Class A				
+NGS_2023_268	E320	blaSHV	blaSHV-183_1_HG934764	Beta-lactam	Unknown Beta-lactam	Unpublished	Enzymatic inactivation	Class A				
+NGS_2023_268	E320	blaTEM	blaTEM-33_1_GU371926	Beta-lactam	"Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid"	"20585456, 8067742"	Enzymatic inactivation	Class A				
+NGS_2023_268	E320	OqxA	OqxA_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxB,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_268	E320	OqxB	OqxB_1_EU370913	"Amphenicol, Quinolone, Quaternary Ammonium Compounds, Folate pathway antagonist"	"Chloramphenicol, Benzylkonium Chloride, Cetylpyridinium Chloride, Nalidixic acid, Ciprofloxacin, Trimethoprim"	18440636	Efflux pump	"Must be in an operon with oqxA,phenotype differs based on genomic location of the operon PMID 25801572,also nitrofurantoin resistance PMID 26552976"				
+NGS_2023_268	E320	qacC	qacC_1_M37889	Quaternary Ammonium Compound	"Benzylkonium Chloride, Ethidium Bromide, Chlorhexidine, Cetylpyridinium Chloride"	1840534	Efflux pump					
+NGS_2023_268	E320	sul1	sul1_11_DQ914960	Folate pathway antagonist	Sulfamethoxazole	17158944	Purine synthesis					
+NGS_2023_268	E320	sul1	sul1_9_AY963803	Folate pathway antagonist	Sulfamethoxazole	15968049		Purine synthesis				
+NGS_2023_268	E320	tet(L)	tet(L)_4_D00006	Tetracycline	"Doxycycline, Tetracycline"	2996983	Increased efflux					
